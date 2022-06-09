@@ -70,7 +70,7 @@ const RowContainer = ({ flag, data, scrollValue }) => {
               </p>
               <p className="mt-1 text-sm text-gray-500">
                 {" "}
-                {item?.calories} Calories
+                {item?.calories} Kalori
               </p>
               <div className="flex items-center gap-8">
                 <p className="text-lg text-headingColor font-semibold">
